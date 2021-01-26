@@ -9,11 +9,10 @@ h1{
     color: orange;
 }
 .half-width{
-    width: 47%;
+    width: 49%;
   float: left;
-   
-    margin-left: 20px;
-    padding-left: 10px;
+   margin-left: 5px;
+   padding-left: 2px;
     
 }
 .half-width img{
@@ -24,8 +23,9 @@ h1{
     background-repeat: no-repeat;
 }
 section{
-    height: 100%;
-    padding-bottom: 100px;
+    height:500px;
+    padding-bottom: 150px;
+    
 }
 .link-buttton{
     text-decoration: none;
@@ -34,4 +34,9 @@ section{
     font-weight: 700;
     padding: 10px 20px;
     border-radius: 5px;
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
