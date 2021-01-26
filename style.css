@@ -9,10 +9,10 @@ h1{
     color: orange;
 }
 .half-width{
-    width: 49%;
+    width: 45%;
   float: left;
-   margin-left: 5px;
-   padding-left: 2px;
+   margin-left: 25px;
+   padding-left: 15px;
     
 }
 .half-width img{
