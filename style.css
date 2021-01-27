@@ -9,15 +9,15 @@ h1{
     color: orange;
 }
 .half-width{
-    width: 45%;
-   display: inline-block;
+    width: 47%;
+  float: left;
    
     margin-left: 20px;
     padding-left: 10px;
     
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
@@ -25,7 +25,7 @@ h1{
 }
 section{
     height: 100%;
-    padding-bottom: px;
+    padding-bottom: 100px;
 }
 .link-buttton{
     text-decoration: none;
