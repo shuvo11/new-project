@@ -9,11 +9,11 @@ h1{
     color: orange;
 }
 .half-width{
-    width: 47%;
-    float: left;
+    width: 45%;
+   display: inline-block;
    
-    margin-left: 5px;
-    padding-left: 2px;
+    margin-left: 20px;
+    padding-left: 10px;
     
 }
 .half-width img{
@@ -25,6 +25,7 @@ h1{
 }
 section{
     height: 100%;
+    padding-bottom: px;
 }
 .link-buttton{
     text-decoration: none;
