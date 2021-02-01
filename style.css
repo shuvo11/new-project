@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.box3{
+    border: 1px solid peru;
+    width: 400px;
+    height: 200px;
+    overflow: scroll;
+}
+.box{
+    border: 1px solid crimson;
+    width: 400px;
+    height: 200px;
+}
+.xox1{
+    width: 400px;
+    height: 400px;
+    transition: transform 0.2s ease-in-out;
+}
+.xox:hover .xox1{
+    transform: rotate(-60deg);
+    
+    transform-origin: 100% 0%;
+}
+.ball{
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    border-radius: 20px;
+    position: relative;
+    left: 540px;
+    transition: transform 2s ease-in-out 0.4s;
+}
+.xox:hover .ball{
+    transform: translate(1000px,-200px);
+}
